@@ -4,3 +4,7 @@
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_install/master/all-install.sh)"   
 ```
+自己的脚本：
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/gugd123/ssrv2/master/all-install.sh)"
+```
