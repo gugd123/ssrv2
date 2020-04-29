@@ -14,6 +14,10 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 ./tcp.sh
 ```
+修复代码：
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/bug.sh)"
+```
 教程地址：
 https://www.youtube.com/watch?v=8PNXSmvqPpI
 博客：https://jeanniestudio.top/2020/04/17/Jeannie%E5%87%BA%E5%93%81-%E5%85%AD%E5%90%88%E4%B8%80%E8%84%9A%E6%9C%AC/
