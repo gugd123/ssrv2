@@ -8,3 +8,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_instal
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/gugd123/ssrv2/master/all-install.sh)"
 ```
+教程地址：
+https://www.youtube.com/watch?v=8PNXSmvqPpI
